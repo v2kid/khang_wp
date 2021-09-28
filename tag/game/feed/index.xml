@@ -8,10 +8,10 @@
 	>
 
 <channel>
-	<title>game &#8211; My WordPress</title>
+	<title>game &#8211; NAIX</title>
 	<atom:link href="http://localhost/myproject/wordpress/tag/game/feed/" rel="self" type="application/rss+xml" />
 	<link>https://v2kid.github.io/khang_wp</link>
-	<description>Một trang web mới sử dụng WordPress</description>
+	<description>Nắm Bắt Thời Thượng</description>
 	<lastBuildDate>Mon, 30 Aug 2021 02:16:16 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
